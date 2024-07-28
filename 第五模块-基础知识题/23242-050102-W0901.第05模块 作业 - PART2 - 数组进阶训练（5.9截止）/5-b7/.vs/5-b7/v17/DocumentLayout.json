@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D26F7D-F362-47EE-8A00-85181C7193F2}|5-b7\\5-b7.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D26F7D-F362-47EE-8A00-85181C7193F2}|5-b7\\5-b7.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7-cct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D26F7D-F362-47EE-8A00-85181C7193F2}|5-b7\\5-b7.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 199,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-b7-main.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7-main.cpp",
+              "RelativeDocumentMoniker": "..\\5-b7-main.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7-main.cpp",
+              "RelativeToolTip": "..\\5-b7-main.cpp",
+              "ViewState": "AQIAACYBAAAAAAAAAAAAAD8BAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T11:47:52.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5-b7-cct.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7-cct.cpp",
+              "RelativeDocumentMoniker": "..\\5-b7-cct.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7-cct.cpp",
+              "RelativeToolTip": "..\\5-b7-cct.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T11:47:40.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5-b7.h",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7.h",
+              "RelativeDocumentMoniker": "..\\5-b7.h",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050102-W0901.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART2 - \u6570\u7EC4\u8FDB\u9636\u8BAD\u7EC3\uFF085.9\u622A\u6B62\uFF09\\5-b7.h",
+              "RelativeToolTip": "..\\5-b7.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T11:47:23.643Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

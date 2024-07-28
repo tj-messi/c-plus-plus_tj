@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E49F463-CA47-4A4B-8BE1-8EBFCD64585B}|7-b2\\7-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E49F463-CA47-4A4B-8BE1-8EBFCD64585B}|7-b2\\7-b2.vcxproj|solutionrelative:7-b2\\7-b2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E49F463-CA47-4A4B-8BE1-8EBFCD64585B}|7-b2\\7-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E49F463-CA47-4A4B-8BE1-8EBFCD64585B}|7-b2\\7-b2.vcxproj|solutionrelative:7-b2\\7-b2-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E49F463-CA47-4A4B-8BE1-8EBFCD64585B}|7-b2\\7-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E49F463-CA47-4A4B-8BE1-8EBFCD64585B}|7-b2\\7-b2.vcxproj|solutionrelative:7-b2\\7-b2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E49F463-CA47-4A4B-8BE1-8EBFCD64585B}|7-b2\\7-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E49F463-CA47-4A4B-8BE1-8EBFCD64585B}|7-b2\\7-b2.vcxproj|solutionrelative:7-b2\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 195,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "7-b2-main.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2-main.cpp",
+              "RelativeDocumentMoniker": "7-b2\\7-b2-main.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2-main.cpp",
+              "RelativeToolTip": "7-b2\\7-b2-main.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T02:58:19.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7-b2.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2.cpp",
+              "RelativeDocumentMoniker": "7-b2\\7-b2.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2.cpp",
+              "RelativeToolTip": "7-b2\\7-b2.cpp",
+              "ViewState": "AQIAAMoAAAAAAAAAAADwv+sAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T04:12:49.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cmd_console_tools.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\cmd_console_tools.cpp",
+              "RelativeDocumentMoniker": "7-b2\\cmd_console_tools.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\cmd_console_tools.cpp",
+              "RelativeToolTip": "7-b2\\cmd_console_tools.cpp",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswIQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T15:34:52.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "7-b2.h",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2.h",
+              "RelativeDocumentMoniker": "7-b2\\7-b2.h",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E03\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-070101-W1501.\u7B2C07\u6A21\u5757 \u4F5C\u4E1A - PART1 - \u7ED3\u6784\u4F53\u57FA\u7840\uFF08\u622A\u6B62\u65E5\u671F\u6BD4\u5E38\u89C4\u63D0\u524D2\u5C0F\u65F6\uFF09\\7-b2\\7-b2\\7-b2.h",
+              "RelativeToolTip": "7-b2\\7-b2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T15:03:40.77Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

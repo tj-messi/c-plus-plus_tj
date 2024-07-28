@@ -1,0 +1,1 @@
+在未安装VisualStudio的机器上使用时，保证exe和dll在同一目录下即可

@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050108-W1101.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART3 - \u5B57\u7B26\u6570\u7EC4\u4E0Estring\u7C7B\\5-b12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFB34C1-0D09-4DC2-90EC-0E0A38AAF077}|5-b12\\5-b12.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050108-W1101.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART3 - \u5B57\u7B26\u6570\u7EC4\u4E0Estring\u7C7B\\5-b12-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFB34C1-0D09-4DC2-90EC-0E0A38AAF077}|5-b12\\5-b12.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050108-W1101.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART3 - \u5B57\u7B26\u6570\u7EC4\u4E0Estring\u7C7B\\5-b12-sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 199,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-b12-main.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050108-W1101.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART3 - \u5B57\u7B26\u6570\u7EC4\u4E0Estring\u7C7B\\5-b12\\5-b12-main.cpp",
+              "RelativeDocumentMoniker": "5-b12-main.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050108-W1101.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART3 - \u5B57\u7B26\u6570\u7EC4\u4E0Estring\u7C7B\\5-b12\\5-b12-main.cpp",
+              "RelativeToolTip": "5-b12-main.cpp",
+              "ViewState": "AQIAANoBAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T14:38:37.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5-b12-sub.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050108-W1101.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART3 - \u5B57\u7B26\u6570\u7EC4\u4E0Estring\u7C7B\\5-b12\\5-b12-sub.cpp",
+              "RelativeDocumentMoniker": "5-b12-sub.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u4E94\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-050108-W1101.\u7B2C05\u6A21\u5757 \u4F5C\u4E1A - PART3 - \u5B57\u7B26\u6570\u7EC4\u4E0Estring\u7C7B\\5-b12\\5-b12-sub.cpp",
+              "RelativeToolTip": "5-b12-sub.cpp",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAUwD0BAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T14:41:51.243Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

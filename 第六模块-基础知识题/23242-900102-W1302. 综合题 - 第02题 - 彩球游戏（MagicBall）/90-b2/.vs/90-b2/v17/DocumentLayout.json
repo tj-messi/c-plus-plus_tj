@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|solutionrelative:90-b2\\magic_ball_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|solutionrelative:90-b2\\magic_ball_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|solutionrelative:90-b2\\magic_ball_graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|solutionrelative:90-b2\\magic_ball_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|solutionrelative:90-b2\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|solutionrelative:90-b2\\magic_ball_menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\23242-900102-W1302.\u7EFC\u5408\u9898 - \u9644\u4EF6 \u56DB\u79CD\u7EBF\u578B\u7684\u4E2D\u6587\u5236\u8868\u7B26\u6846\u67B6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{430AAB69-24D0-4EED-B779-F5AF5E1B7479}|90-b2\\90-b2.vcxproj|solutionrelative:90-b2\\magic_ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 195,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "magic_ball_graph.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_graph.cpp",
+              "RelativeDocumentMoniker": "90-b2\\magic_ball_graph.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_graph.cpp",
+              "RelativeToolTip": "90-b2\\magic_ball_graph.cpp",
+              "ViewState": "AQIAADsBAAAAAAAAAAAAAGABAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T05:00:00.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "magic_ball_base.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_base.cpp",
+              "RelativeDocumentMoniker": "90-b2\\magic_ball_base.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_base.cpp",
+              "RelativeToolTip": "90-b2\\magic_ball_base.cpp",
+              "ViewState": "AQIAAEICAAAAAAAAAAAiwGQCAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T15:46:09.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "magic_ball_menu.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_menu.cpp",
+              "RelativeDocumentMoniker": "90-b2\\magic_ball_menu.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_menu.cpp",
+              "RelativeToolTip": "90-b2\\magic_ball_menu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T07:56:03.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cmd_console_tools.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\cmd_console_tools.cpp",
+              "RelativeDocumentMoniker": "90-b2\\cmd_console_tools.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\cmd_console_tools.cpp",
+              "RelativeToolTip": "90-b2\\cmd_console_tools.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T10:13:29.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "magic_ball_tools.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_tools.cpp",
+              "RelativeDocumentMoniker": "90-b2\\magic_ball_tools.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_tools.cpp",
+              "RelativeToolTip": "90-b2\\magic_ball_tools.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T03:00:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "magic_ball_main.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_main.cpp",
+              "RelativeDocumentMoniker": "90-b2\\magic_ball_main.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball_main.cpp",
+              "RelativeToolTip": "90-b2\\magic_ball_main.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T10:09:13.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "23242-900102-W1302.\u7EFC\u5408\u9898 - \u9644\u4EF6 \u56DB\u79CD\u7EBF\u578B\u7684\u4E2D\u6587\u5236\u8868\u7B26\u6846\u67B6.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\23242-900102-W1302.\u7EFC\u5408\u9898 - \u9644\u4EF6 \u56DB\u79CD\u7EBF\u578B\u7684\u4E2D\u6587\u5236\u8868\u7B26\u6846\u67B6.cpp",
+              "RelativeDocumentMoniker": "..\\23242-900102-W1302.\u7EFC\u5408\u9898 - \u9644\u4EF6 \u56DB\u79CD\u7EBF\u578B\u7684\u4E2D\u6587\u5236\u8868\u7B26\u6846\u67B6.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\23242-900102-W1302.\u7EFC\u5408\u9898 - \u9644\u4EF6 \u56DB\u79CD\u7EBF\u578B\u7684\u4E2D\u6587\u5236\u8868\u7B26\u6846\u67B6.cpp",
+              "RelativeToolTip": "..\\23242-900102-W1302.\u7EFC\u5408\u9898 - \u9644\u4EF6 \u56DB\u79CD\u7EBF\u578B\u7684\u4E2D\u6587\u5236\u8868\u7B26\u6846\u67B6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T09:54:02.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "magic_ball.h",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball.h",
+              "RelativeDocumentMoniker": "90-b2\\magic_ball.h",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u516D\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-900102-W1302. \u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u5F69\u7403\u6E38\u620F\uFF08MagicBall\uFF09\\90-b2\\90-b2\\magic_ball.h",
+              "RelativeToolTip": "90-b2\\magic_ball.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-02T15:45:48.68Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

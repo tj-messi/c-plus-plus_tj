@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u56DB\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-040106-W0801.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART4 - \u591A\u6E90\u6587\u4EF6\u9879\u76EE\u57FA\u7840\u8BAD\u7EC3\\hw_Chapter4_Part4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A0D657-60C2-46FD-80E0-E01DE044B2C9}|4-b14\\4-b14.vcxproj|C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u56DB\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-040106-W0801.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART4 - \u591A\u6E90\u6587\u4EF6\u9879\u76EE\u57FA\u7840\u8BAD\u7EC3\\hw_Chapter4_Part4\\4-b14\\4-b14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A0D657-60C2-46FD-80E0-E01DE044B2C9}|4-b14\\4-b14.vcxproj|solutionrelative:4-b14\\4-b14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 199,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-b14.cpp",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u56DB\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-040106-W0801.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART4 - \u591A\u6E90\u6587\u4EF6\u9879\u76EE\u57FA\u7840\u8BAD\u7EC3\\hw_Chapter4_Part4\\4-b14\\4-b14.cpp",
+              "RelativeDocumentMoniker": "4-b14\\4-b14.cpp",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\homework\\\u7B2C\u56DB\u6A21\u5757-\u57FA\u7840\u77E5\u8BC6\u9898\\23242-040106-W0801.\u7B2C04\u6A21\u5757 \u4F5C\u4E1A - PART4 - \u591A\u6E90\u6587\u4EF6\u9879\u76EE\u57FA\u7840\u8BAD\u7EC3\\hw_Chapter4_Part4\\4-b14\\4-b14.cpp",
+              "RelativeToolTip": "4-b14\\4-b14.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T03:00:47.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
